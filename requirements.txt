@@ -1,0 +1,6 @@
+aiohttp
+fastapi
+elasticsearch
+uvicorn
+pydantic
+gunicorn
